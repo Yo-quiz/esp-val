@@ -36,7 +36,7 @@ const yoKaiList = [
     { name: "Cortarroz", img: "Cortarroz.png" },
     { name: "Socarrat", img: "Socarrat.png" },
     { name: "Atierrador", img: "Atierrador.png" },
-    { name: "Capi-cachas", img: "Capi-cachas.png" },
+    { name: "Capi-cachas", img: "Capi-Cachas.png" },
     { name: "Devoramonios", img: "Devoramonios.png" },
     { name: "Devoralmas", img: "Devoralmas.png" },
     { name: "Tigrenyan", img: "Tigrenyan.png" },
