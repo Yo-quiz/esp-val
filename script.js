@@ -81,11 +81,12 @@ const yoKaiList = [
   { "name": "Bóvida", "img": "Bovida.png" },
   { "name": "Equinio", "img": "Equinio.png" },
   { "name": "Fenixtelecto", "img": "Fenixtelecto.png" },
-  { name: "Shourinji", img: "Shourinji.png" },
-  { name: "AkiraMEN", img: "AkiraMEN.png" },
-  { name: "Shogunyan de Cristal", aliases: ["Shogunyan de Cristal", "Shogunyan C", "Crystal Shogunyan"], img: "Shogunyan_Cristal.png" },
-  { name: "Wobblehover", aliases: ["Wobblehover", "Wibblehover", "Punifuyu"], img: "Wobblehover.png" },
-  { name: "Dandory", img: "Dandory.png" },
+  { "name": "Dradorado", "img": "Dradorado.png" },
+  { "name": "Shourinji", img: "Shourinji.png" },
+  { "name": "AkiraMEN", img: "AkiraMEN.png" },
+  { "name": "Shogunyan de Cristal", aliases: ["Shogunyan de Cristal", "Shogunyan C", "Crystal Shogunyan"], img: "Shogunyan_Cristal.png" },
+  { "name": "Wobblehover", aliases: ["Wobblehover", "Wibblehover", "Punifuyu"], img: "Wobblehover.png" },
+  { "name": "Dandory", img: "Dandory.png" },
 ];
 
 let score = 0; 
