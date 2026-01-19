@@ -211,7 +211,7 @@ function showCongratsImage() {
 
     // Título
     const title = document.createElement("h2");
-    title.textContent = `Congrats! You've guessed all the Yo-kai in ${tiempoTotal}`;
+    title.textContent = `¡Enhorabuena! Has adivinado todos los Yo-kai en ${tiempoTotal}`;
     title.style.marginTop = "40px";
     title.style.marginBottom = "30px";
     title.style.fontSize = "22px";
@@ -219,7 +219,7 @@ function showCongratsImage() {
     // Texto Twitter
     const followText = document.createElement("p");
     followText.innerHTML = `
-        If you liked it, why not follow me on twitter?: 
+        Si te ha gustado, ¿por qué no seguirme en Twitter?: 
         <a href="https://x.com/salty_baconV2" target="_blank" style="color:#4fc3ff; text-decoration:none;">
         @Salty_BaconV2
         </a>
